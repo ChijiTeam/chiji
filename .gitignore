@@ -1,0 +1,10 @@
+/*
+!Assets
+!GitgnoreFile
+!.gitignore
+!ProjectSettings
+
+Assets/ExportAssetBundles/
+Assets/TargetAndroid/
+Assets/StreamingAssets/
+Assets/UnityVS/
