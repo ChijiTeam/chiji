@@ -1,10 +1,10 @@
-/*
-!Assets
-!GitgnoreFile
+Chiji/*
+!Chiji/Assets
+!Chiji/GitgnoreFile
 !.gitignore
-!ProjectSettings
+!Chiji/ProjectSettings
 
-Assets/ExportAssetBundles/
-Assets/TargetAndroid/
-Assets/StreamingAssets/
-Assets/UnityVS/
+Chiji/Assets/ExportAssetBundles/
+Chiji/Assets/TargetAndroid/
+Chiji/Assets/StreamingAssets/
+Chiji/Assets/UnityVS/
