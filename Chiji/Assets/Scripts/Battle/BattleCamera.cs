@@ -12,7 +12,7 @@ public class BattleCamera : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void Update () {
+	void LateUpdate () {
 		if (followTarget != null) {
 			transform.position = followTarget.position + followPos;
 //			transform.eulerAngles = followAngles;
