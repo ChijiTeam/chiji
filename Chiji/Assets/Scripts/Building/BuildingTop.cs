@@ -18,7 +18,7 @@ public class BuildingTop : MonoBehaviour {
 
 	void OnTriggerEnter(Collider collider)  
 	{  
-		print("Enter ::: "+this.name);  
+//		print("Enter ::: "+this.name);  
 //		this.gameObject.SetActive (false);
 		mesh.enabled = false;
 
@@ -26,7 +26,7 @@ public class BuildingTop : MonoBehaviour {
 	}  
 	void OnTriggerExit(Collider collider)  
 	{  
-		print("out ::: "+this.name);  
+//		print("out ::: "+this.name);  
 //		this.gameObject.SetActive (true);
 
 		mesh.enabled = true;
